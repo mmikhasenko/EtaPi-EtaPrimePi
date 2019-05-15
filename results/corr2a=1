@@ -1,0 +1,30 @@
+ 
+********************************************************************
+*                                                                  *
+*  Covariance and correlations of parameters and pole positions    *
+*                                                                  *
+********************************************************************
+
+ PAR : PAR      COV     CORR
+Mass a2 : Mass a2       1.358430E-06    1.000000E+00
+Width a2 : Mass a2      -1.206552E-06   -4.217998E-01
+Width a2 : Width a2     6.023410E-06    1.000000E+00
+Mass a2' : Mass a2      5.766681E-07    2.731374E-02
+Mass a2' : Width a2     -4.329122E-07   -9.737610E-03
+Mass a2' : Mass a2'     3.281349E-04    1.000000E+00
+Width a2' : Mass a2     -1.951239E-06   -7.866795E-02
+Width a2' : Width a2    2.147581E-05    4.111823E-01
+Width a2' : Mass a2'    3.359090E-05    8.713678E-02
+Width a2' : Width a2'   4.528849E-04    1.000000E+00
+Mass a2' : Mass a2      2.588447E-06    1.022248E-01
+Mass a2' : Width a2     -8.831451E-06   -1.656328E-01
+Mass a2' : Mass a2'     1.514334E-05    3.847965E-02
+Mass a2' : Width a2'    -1.572002E-04   -3.400124E-01
+Mass a2' : Mass a2'     4.719857E-04    1.000000E+00
+Width pi1 : Mass a2     -1.142207E-06   -2.382663E-02
+Width pi1 : Width a2    -1.571052E-05   -1.556344E-01
+Width pi1 : Mass a2'    1.452832E-04    1.949959E-01
+Width pi1 : Width a2'   -1.552984E-04   -1.774228E-01
+Width pi1 : Mass a2'    1.655301E-04    1.852460E-01
+Width pi1 : Width pi1   1.691716E-03    1.000000E+00
+
